@@ -74,22 +74,6 @@ a{
   padding: 50px 0 20px;
 }
 
-.bottom-cloud {
-  position: relative;
-  height: 135px;
-  width: 135px;
-  bottom: 320px;
-  left: 60px;
-}
-
-.top-cloud {
-  position: relative;
-  height: 135px;
-  width: 135px;
-  top: 150px;
-  left: 400px;
-}
-
 .mountain {
   margin: auto;
   height: 350px;
